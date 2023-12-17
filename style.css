@@ -74,3 +74,12 @@ button.accordion {
   .material-symbols-outlined{
 	color: gray;
   }
+
+  #summon_content{
+	padding: 0px 20px 0px 20px;
+	text-align: left;
+  }
+  .dummy{
+	min-height: 40px;
+  }
+  
